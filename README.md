@@ -1,4 +1,3 @@
-AppendCategoryBasename
-======================
+# AppendCategoryBasename
 
-カテゴリ一覧ページにおいて、カテゴリのベースネームを表示させます。
+Show category basename column at category list page.
